@@ -7,5 +7,13 @@ export const projectList = [
     url: '',
     image: '/images/projects/taskeasy.png'
   },
+  {
+    id: 2,
+    title: 'Awesometodos',
+    des: 'A simple web app that helps students track their todos.',
+    tech: ['MongDb', 'Express.js', 'React', 'Node.js'],
+    url: '',
+    image: '/images/projects/awesometodos.png'
+  },
 
 ];

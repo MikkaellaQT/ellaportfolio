@@ -35,7 +35,7 @@ export async function generateMetadata() {
 
     title: {
       default: 'Mikka Ella Gabucan | Networking Enthusiast',
-      template: '%s | Mikka Ella Gabucan'
+      template: 'Mikka Ella Gabucan'
     },
     verification: {
       google: 'process.env.NEXT_PUBLIC_GOOGLE_VERIFICATION'
@@ -80,7 +80,7 @@ export async function generateMetadata() {
           width: 1200,
           height: 630,
           alt: 'Mikka Ella Gabucan | Networking Enthusiast',
-          type: 'image/png'
+          type: 'shafin-logo.png'
         }
       ]
     },
@@ -95,7 +95,7 @@ export async function generateMetadata() {
       url: BASE_URL
     },
     icons: {
-      icon: '/favicon.ico'
+      icon: 'shafin-logo.png'
     },
     manifest: `${BASE_URL}/manifest.json`,
     robots: {

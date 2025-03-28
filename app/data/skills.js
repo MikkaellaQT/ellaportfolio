@@ -14,11 +14,11 @@ export const skills = [
     name: 'CSS',
     logo: '/images/skills/css.png'
   },
-  {
-    id: 3,
-    name: 'Bootstrap',
-    logo: '/images/skills/bootstrap.png'
-  },
+  // {
+  //   id: 3,
+  //   name: 'Bootstrap',
+  //   logo: '/images/skills/bootstrap.png'
+  // },
    {
    	id: 6,
    	name: 'Git',
