@@ -2,7 +2,7 @@
     <img src="public/images/icons/shafin-logo.png" alt="Logo" width="200">
 </p>
 
-<p align="center">
+<!-- <p align="center">
 <a href="" target="blank">
 <img alt="GitHub deployments" src="https://img.shields.io/github/deployments/shahriarshafin/myportfolio/production?label=vercel&logo=vercel&logoColor=vercel&style=flat-square">
 </a>
@@ -12,11 +12,11 @@
 <a href="https://twitter.com/intent/tweet?text=👋%20Check%20this%20amazing%20portfolio!%20https://shafin.live/,%20created%20by%20@connectshafin">
 <img src="https://img.shields.io/twitter/url?label=Share%20on%20Twitter&style=social&url=https%3A%2F%2Fgithub.com%2Fshahriar%2Fshafin">
 </a>
-</p>
+</p> -->
 
 <div align="center">
 <h1>
-<a href="https://shafin.vercel.app/" target="_blank">Shahriar Shafin</a>
+<a href="" target="_blank">Mikka Ella Gabucan</a>
 </h1>
 A personal portfolio website to show skills, experiences, and projects
     <br/>
@@ -30,13 +30,13 @@ A personal portfolio website to show skills, experiences, and projects
 1. Clone the repository
 
 ```bash
-https://github.com/shahriarshafin/shahriarshafin.github.io.git
+https://github.com/MikkaellaQT/ellaportfolio.git
 ```
 
 2. Change the working directory
 
 ```bash
-cd shahriarshafin.github.io
+cd ellaportfolio
 ```
 
 3. Install dependencies
