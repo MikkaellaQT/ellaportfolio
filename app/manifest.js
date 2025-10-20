@@ -30,8 +30,8 @@ export default function manifest() {
     ],
     icons: [
       {
-        src: '/images/icons/icon-92x92.png',
-        sizes: '92x92',
+        src: '/images/icons/icon-96x96.png',
+        sizes: '96x96',
         type: 'image/png',
         purpose: 'maskable'
       },
