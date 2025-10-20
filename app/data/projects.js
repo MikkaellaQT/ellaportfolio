@@ -15,5 +15,12 @@ export const projectList = [
     url: '',
     image: '/images/projects/awesometodos.png'
   },
-
+ {
+    id: 3,
+    title: 'myway',
+    des: 'A web app which uses AI technology that aligns with your skills, interests, and personality.',
+    tech: ['Supabase', 'Express.js', 'React'],
+    url: '',
+    image: '/images/projects/myway.png'
+  },
 ];

@@ -23,6 +23,14 @@ export const companies = [
     degree: 'Web Developer - Student',
     startDate: 'Nov 2025',
     endDate: 'Present'
+  },
+   {
+    id: 5,
+    institution: 'myway',
+    logo: '/images/projects/myway.png',
+    degree: 'Web Developer - Student',
+    startDate: 'July 2025',
+    endDate: 'Present'
   }
 ];
 
@@ -54,7 +62,7 @@ export const socialMedia = [
     id: 3,
     label: 'Phone',
     icon: <FaPhone />,
-    url: 'tel:+9685466231' 
+    url: 'tel:+9659528245' 
   },
   {
     id: 4,
